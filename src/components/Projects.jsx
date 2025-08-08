@@ -2,12 +2,12 @@ const projects = [
     {
         title: "Sistema de Tracking",
         description: "Aplicación para rastrear vehículos en tiempo real con MapLibre y OpenStreetMap.",
-        link: "#"
+        link: "https://tracking-frontend-eight.vercel.app/"
     },
     {
         title: "Catálogo de productos",
         description: "Página tipo Mercado Libre sin compras, con React y Node.js.",
-        link: "#"
+        link: "https://tracking-frontend-eight.vercel.app/"
     }
 ];
 
